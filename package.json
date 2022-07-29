@@ -1,0 +1,23 @@
+{
+  "name": "reality-eth-examples",
+  "version": "1.0.0",
+  "description": "Examples for using reality.eth",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RealityETH/reality-eth-examples.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RealityETH/reality-eth-examples/issues"
+  },
+  "homepage": "https://github.com/RealityETH/reality-eth-examples#readme",
+  "dependencies": {
+    "@reality.eth/contracts": "^3.0.9",
+    "ethers": "^5.6.9"
+  }
+}
